@@ -16,7 +16,7 @@
   },
   "name": "vue-taba",
   "description": "Taba's Vue component",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "./dist/Taba.js",
   "repository": "nju33/vue-taba",
   "author": "nju33 <nju33.ki@gmail.com>",
